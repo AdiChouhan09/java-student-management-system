@@ -55,7 +55,7 @@ The system includes:
 
 **Name:** Aditya Chouhan  
 **Roll No:** 2401830001  
-**Course:** BSc Cybersecurity  
+**Course:** BSc (H) Cybersecurity  
 
 ---
 
