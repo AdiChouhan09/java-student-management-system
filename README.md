@@ -49,4 +49,15 @@ The system includes:
 - StudentManager.java
 - Main.java
 
+---
+
+## Author
+
+**Name:** Aditya Chouhan  
+**Roll No:** 2401830001  
+**Course:** BSc Cybersecurity  
+
+---
+
+
 
